@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.hero-bg-image {
+    background: url('C:\xampp\htdocs\test\public\dark.jpg') no-repeat center center /cover !important;
+    background-attachment: fixed;
+    /* background-color: #333; */
+    height: 600px;
+}
+
+h1 {
+    padding-bottom: 30px;
+}
